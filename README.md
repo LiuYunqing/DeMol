@@ -89,10 +89,10 @@ bash finetune_qm9.sh
 ```
 
 ## Downstream Task -- (OC20 IS2RE)
-Download the checkpoint: qm9.pt
+Download the checkpoint: oc20.pt
 ```shell
-export ckpt_path='./qm9.pt'                # path to checkpoints
-bash finetune_qm9.sh
+export ckpt_path='./oc20.pt'                # path to checkpoints
+bash finetune_oc20.sh
 ```
 
 ## Downstream Task -- (MoleculeNet)
