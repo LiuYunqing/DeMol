@@ -1,5 +1,5 @@
 # DeMol
-This repository is the official implementation of “Rethinking Bond Modelling and Interactions in Molecular Property Prediction”.
+This repository is the official implementation of “Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions”.
 ![](DeMol.png)
 
 ## Installation
