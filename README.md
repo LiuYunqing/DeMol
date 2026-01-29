@@ -2,7 +2,6 @@
 This repository is the official implementation of “Enhancing Molecular Property Predictions by Learning from Bond Modelling and Interactions”.
 ![](DeMol.png)
 
-The methods and experiments presented in this paper are fully reproducible based on the detailed descriptions in the methodology section and the step-by-step procedures outlined in the appendices. All necessary information for reproduction is included in the manuscript. The code and data have not been released in this version due to confidentiality; however, they can be provided upon request to reviewers and readers, and will be made publicly available upon publication of the paper.
 
 ## Installation
 - Clone this repository
